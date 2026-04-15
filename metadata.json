@@ -1,5 +1,5 @@
 {
-  "name": "Remix: Gemini AI Host Studio",
+  "name": "Gemini AI Host Studio",
   "description": "A dynamic AI host application featuring real-time conversational voice interaction (Live API), internet-grounded research (Search), and expressive text-to-speech.",
   "requestFramePermissions": [
     "microphone"
